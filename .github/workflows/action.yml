@@ -24,6 +24,7 @@ jobs:
       run: |
         git config --local user.email ${{ secrets.GIT_EMAIL }}
         git config --local user.name ${{ secrets.GIT_NAME }}
+        git add http.txt https.txt socks4.txt socks5.txt
         git commit -m "Updated Proxies"
     - name: Push changes
       uses: ad-m/github-push-action@master
