@@ -3,6 +3,7 @@ name: FREE-PROXY Updater
 on:
   schedule:
     - cron: '* * * * *'
+  workflow_dispatch:
 
 jobs:
   build:
