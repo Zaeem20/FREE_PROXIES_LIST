@@ -24,7 +24,6 @@ jobs:
       run: |
         git config --local user.email ${{ secrets.GIT_EMAIL }}
         git config --local user.name ${{ secrets.GIT_NAME }}
-        git config --global core.autocrlf false
         git commit -am "Updated Proxies"
     - name: Push changes
       uses: ad-m/github-push-action@master
