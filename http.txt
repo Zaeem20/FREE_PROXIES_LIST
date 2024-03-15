@@ -1,125 +1,201 @@
-<!DOCTYPE html>
-<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
-<head>
-
-
-<title>api.proxyscrape.com | 522: Connection timed out</title>
-<meta charset="UTF-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
-<meta name="robots" content="noindex, nofollow" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
-<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" />
-
-
-</head>
-<body>
-<div id="cf-wrapper">
-    <div id="cf-error-details" class="p-0">
-        <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8">
-            <h1 class="inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2">
-              <span class="inline-block">Connection timed out</span>
-              <span class="code-label">Error code 522</span>
-            </h1>
-            <div>
-               Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_522&utm_campaign=api.proxyscrape.com" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.
-            </div>
-            <div class="mt-3">2024-03-15 15:26:53 UTC</div>
-        </header>
-        <div class="my-8 bg-gradient-gray">
-            <div class="w-240 lg:w-full mx-auto">
-                <div class="clearfix md:px-8">
-                  
-<div id="cf-browser-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
-  <div class="relative mb-10 md:m-0">
-    
-    <span class="cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat"></span>
-    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
-    
-  </div>
-  <span class="md:block w-full truncate">You</span>
-  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
-    
-    Browser
-    
-  </h3>
-  <span class="leading-1.3 text-2xl text-green-success">Working</span>
-</div>
-
-<div id="cf-cloudflare-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
-  <div class="relative mb-10 md:m-0">
-    <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_522&utm_campaign=api.proxyscrape.com" target="_blank" rel="noopener noreferrer">
-    <span class="cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat"></span>
-    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
-    </a>
-  </div>
-  <span class="md:block w-full truncate">Los Angeles</span>
-  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
-    <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_522&utm_campaign=api.proxyscrape.com" target="_blank" rel="noopener noreferrer">
-    Cloudflare
-    </a>
-  </h3>
-  <span class="leading-1.3 text-2xl text-green-success">Working</span>
-</div>
-
-<div id="cf-host-status" class="cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
-  <div class="relative mb-10 md:m-0">
-    
-    <span class="cf-icon-server block md:hidden h-20 bg-center bg-no-repeat"></span>
-    <span class="cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
-    
-  </div>
-  <span class="md:block w-full truncate">api.proxyscrape.com</span>
-  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
-    
-    Host
-    
-  </h3>
-  <span class="leading-1.3 text-2xl text-red-error">Error</span>
-</div>
-
-                </div>
-            </div>
-        </div>
-
-        <div class="w-240 lg:w-full mx-auto mb-8 lg:px-8">
-            <div class="clearfix">
-                <div class="w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed">
-                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What happened?</h2>
-                    <p>The initial connection between Cloudflare's network and the origin web server timed out. As a result, the web page can not be displayed.</p>
-                </div>
-                <div class="w-1/2 md:w-full float-left leading-relaxed">
-                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What can I do?</h2>
-                          <h3 class="text-15 font-semibold mb-2">If you're a visitor of this website:</h3>
-      <p class="mb-6">Please try again in a few minutes.</p>
-
-      <h3 class="text-15 font-semibold mb-2">If you're the owner of this website:</h3>
-      <p><span>Contact your hosting provider letting them know your web server is not completing requests. An Error 522 means that the request was able to connect to your web server, but that the request didn't finish. The most likely cause is that something on your server is hogging resources.</span> <a rel="noopener noreferrer" href="https://support.cloudflare.com/hc/en-us/articles/200171906-Error-522">Additional troubleshooting information here.</a></p>
-                </div>
-            </div>
-        </div>
-
-        <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
-  <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">864d8581284d7d09</strong></span>
-    <span class="cf-footer-separator sm:hidden">&bull;</span>
-    <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
-      Your IP:
-      <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">20.171.70.184</span>
-      <span class="cf-footer-separator sm:hidden">&bull;</span>
-    </span>
-    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_522&utm_campaign=api.proxyscrape.com" id="brand_link" target="_blank">Cloudflare</a></span>
-    
-  </p>
-  <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
-</div><!-- /.error-footer -->
-
-
-    </div>
-</div>
-</body>
-</html>
+67.43.228.251:14587
+139.59.1.14:8080
+128.199.202.122:3128
+117.160.250.163:8081
+202.152.51.44:8080
+72.10.160.170:9041
+198.199.86.11:3128
+38.180.36.19:80
+147.12.46.62:3128
+134.209.29.120:3128
+134.209.105.209:3128
+5.35.92.156:80
+159.65.77.168:8585
+188.136.164.140:3128
+203.95.196.50:8080
+79.110.201.235:8081
+117.160.250.163:8080
+120.24.176.79:80
+67.43.227.227:14929
+67.43.227.227:16711
+185.196.182.22:8080
+62.33.207.202:3128
+218.6.120.111:7777
+72.10.164.178:29313
+84.47.145.189:8080
+91.92.155.207:3128
+123.182.59.176:8089
+130.162.213.175:3129
+212.108.145.195:9090
+117.160.250.134:80
+117.160.250.132:8899
+171.247.204.98:8080
+24.144.95.168:8000
+121.42.233.132:81
+52.151.210.204:9000
+113.125.82.11:3128
+193.239.58.92:8081
+65.20.226.114:8080
+103.213.97.74:80
+43.231.22.228:80
+134.209.29.120:8080
+195.154.172.161:3128
+51.254.78.223:80
+23.134.94.245:8080
+39.165.0.137:9002
+61.133.66.69:9002
+47.106.112.207:8081
+120.26.0.11:8880
+172.173.132.85:80
+51.89.14.70:80
+94.247.241.70:53640
+120.79.101.0:8888
+49.4.48.128:8888
+185.217.136.67:1337
+103.86.109.38:80
+72.10.160.170:25545
+45.11.95.165:5215
+124.160.118.183:8080
+8.222.152.158:55555
+181.129.62.2:39843
+117.160.250.133:8899
+115.96.208.124:8080
+183.81.156.98:8080
+47.93.121.200:80
+90.74.184.32:999
+34.92.12.210:9238
+67.43.236.20:24517
+67.43.228.253:23137
+203.95.196.5:8080
+45.11.95.165:5017
+178.128.113.118:23128
+89.35.237.187:80
+106.14.255.124:80
+216.74.255.182:8080
+103.199.18.248:80
+12.186.205.123:80
+47.100.236.23:8080
+117.160.250.138:8899
+72.10.164.178:13023
+72.10.160.92:10721
+103.194.88.107:32650
+45.8.21.43:3128
+67.43.236.20:28919
+116.62.147.249:3128
+5.135.83.214:80
+67.43.228.250:31287
+173.249.29.243:9123
+65.109.152.88:8888
+103.118.46.61:8080
+194.182.163.117:3128
+67.43.227.226:6931
+185.49.31.205:8080
+190.110.226.162:80
+47.96.155.154:3129
+181.28.111.161:8080
+58.20.248.139:9002
+176.99.2.43:1081
+183.234.215.11:8443
+219.243.212.118:8080
+114.255.132.60:3128
+185.104.112.62:80
+113.208.119.142:9002
+123.233.245.158:9080
+47.93.113.251:3129
+77.65.50.118:51569
+31.45.237.146:8080
+103.118.46.176:8080
+185.191.236.162:3128
+124.121.117.55:8080
+86.57.133.127:3128
+120.37.121.209:9091
+45.11.95.165:6039
+117.160.250.163:9990
+221.6.139.190:9002
+67.43.228.251:6743
+221.231.13.198:1080
+119.23.148.173:80
+103.152.112.167:80
+60.12.168.114:9002
+39.105.27.30:3128
+220.194.189.144:3128
+72.10.164.178:27343
+43.133.136.208:8800
+122.155.165.191:3128
+72.10.164.178:16611
+72.10.160.90:26907
+8.146.206.215:8090
+203.89.8.107:80
+220.248.70.237:9002
+119.3.14.229:8080
+47.56.110.204:8989
+37.255.228.1:3128
+222.220.102.159:8000
+79.110.202.131:8081
+43.138.145.131:80
+128.199.246.48:8000
+47.89.184.18:3128
+39.108.227.108:80
+123.182.59.192:8089
+103.231.78.36:80
+167.172.158.55:8000
+91.151.90.9:80
+152.101.73.161:13579
+72.10.160.170:9595
+60.188.102.225:18080
+139.99.148.90:3128
+39.107.33.254:8090
+119.39.68.18:2323
+146.190.85.79:3128
+72.10.160.94:21607
+47.116.218.0:443
+185.101.16.52:80
+20.84.106.205:8214
+147.75.92.244:10000
+47.114.101.57:8888
+198.37.57.112:80
+72.10.160.170:32947
+67.43.227.227:23363
+219.243.212.118:8443
+4.144.161.159:80
+185.219.133.106:3128
+67.43.228.253:12421
+129.213.150.205:8080
+41.111.243.18:80
+39.108.229.14:8002
+195.248.240.137:3128
+4.182.9.108:443
+67.43.228.254:32929
+223.113.80.158:9091
+117.160.250.133:80
+67.43.236.20:2039
+221.217.55.70:81
+91.203.114.71:38838
+142.44.210.174:80
+45.5.118.43:999
+82.64.77.30:80
+114.231.82.228:8089
+114.231.46.216:8089
+114.231.42.227:8089
+79.110.196.145:8081
+114.106.172.199:8089
+82.223.19.132:3128
+223.247.46.116:8089
+102.132.54.71:8080
+114.231.45.108:8089
+114.232.109.43:8089
+158.101.113.18:80
+196.20.12.25:8080
+41.33.219.132:8080
+178.115.253.35:8080
+103.24.107.186:8080
+129.158.196.9:3128
+178.115.230.243:8080
+117.70.49.27:8089
+114.231.41.164:8089
+180.191.16.5:8080
+49.228.131.169:5000
+223.215.176.229:8089
+114.231.8.240:8089
+114.231.42.41:8089
+45.174.248.19:999
